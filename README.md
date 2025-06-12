@@ -81,6 +81,7 @@ We have Distributed so far to top 100 on our leaderboard:
 
 
 We have Distributed so far to all participants on the leaderboard:
+
 200M $VANYA https://snowscan.xyz/tx/0xd10d778413d2f14e6c6ca9d075fdc31d4a6d6432af63e408c591eb55b5cc47c3
 
 125M $LEGO https://snowscan.xyz/tx/0xd1e815d8649b3f30a44266bcc875297a001e482b3a0e910b719b081698f52568
