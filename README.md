@@ -17,7 +17,7 @@ We have Distributed so far to top 100 on our leaderboard:
 
 100M $WY https://snowscan.xyz/tx/0x77201931778f6cf75a5db6b67f4cc303739d2784a93eaf58feb4de8c7a47e3af
 
-100M https://snowscan.xyz/tx/0xd800be67b1b91644c2a7d82800bf651f32f35fce8223d39c572706c5e249bded
+100M $BOI https://snowscan.xyz/tx/0xd800be67b1b91644c2a7d82800bf651f32f35fce8223d39c572706c5e249bded
 
 900M $BOI https://snowscan.xyz/tx/0xe79e6dfd77195fd21a37d01b09a0f0a98bea2a473630561c4c7a3ad80c1480cc
 
