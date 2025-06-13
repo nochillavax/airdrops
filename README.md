@@ -116,25 +116,27 @@ We have Distributed so far to all participants on the leaderboard:
 
 150M $RTARD https://snowscan.xyz/tx/0xcaf8df2c838967efc4d8934d099a41ae833d315a80992feb431ffb9905a581ee
 
-70M $SNOW https://snowtrace.io/tx/0xa5918581d16e42777c9d139c7e1a87ad331e4315f1df31ccc362f7b88c332e11
+70M $SNOW https://snowscan.xyz/tx/0xa5918581d16e42777c9d139c7e1a87ad331e4315f1df31ccc362f7b88c332e11
 
-100M $BLST https://snowtrace.io/tx/0xf8ee6d191c9da2960125ad6b42e3a8c6b579c1ac30d32e7f5c82e0c822a53b9c
+100M $BLST https://snowscan.xyz/tx/0xf8ee6d191c9da2960125ad6b42e3a8c6b579c1ac30d32e7f5c82e0c822a53b9c
 
-200M $FINANCE https://snowtrace.io/tx/0x0a8048ca52b043be0cffb29c3014f93f17ed106f43296c74b8c866bb6fd14011
+200M $FINANCE https://snowscan.xyz/tx/0x0a8048ca52b043be0cffb29c3014f93f17ed106f43296c74b8c866bb6fd14011
 
-500M $WHEREMALEK https://snowtrace.io/tx/0x8344660c3850fc94ae0a3447d55c8a66b7f94242b882f943bf74e5d43b2fd3a5
+500M $WHEREMALEK https://snowscan.xyz/tx/0x8344660c3850fc94ae0a3447d55c8a66b7f94242b882f943bf74e5d43b2fd3a5
 
-600M $HSBAF https://snowtrace.io/tx/0x1187b8e6e544aa3421beb6758871212aeb25664483ba70ac6c7d059989a3f895
+600M $HSBAF https://snowscan.xyz/tx/0x1187b8e6e544aa3421beb6758871212aeb25664483ba70ac6c7d059989a3f895
 
-1B $WALT https://snowtrace.io/tx/0xda324faeca84ae8d67489d5394ad23e6f4748007d25ef86abe8748bb11223137
+1B $WALT https://snowscan.xyz/tx/0xda324faeca84ae8d67489d5394ad23e6f4748007d25ef86abe8748bb11223137
 
-500M $BEER30 https://snowtrace.io/tx/0x2257d08a6460f9d6353f2dfaa6db061c028a42217cbb4902a6ca2410e361072d
+500M $BEER30 https://snowscan.xyz/tx/0x2257d08a6460f9d6353f2dfaa6db061c028a42217cbb4902a6ca2410e361072d
 
-500M $MASERATI https://snowtrace.io/tx/0x750daafc6c74b3122c2fe022f7a12da0f670d5b05df68aad07604590ca693207
+500M $MASERATI https://snowscan.xyz/tx/0x750daafc6c74b3122c2fe022f7a12da0f670d5b05df68aad07604590ca693207
 
-400M $FAFO https://snowtrace.io/tx/0x818dfa2bf5b268a44139a99889293a8c95cd6eb94b8f04d9d08117ab4cff2420
+400M $FAFO https://snowscan.xyz/tx/0x818dfa2bf5b268a44139a99889293a8c95cd6eb94b8f04d9d08117ab4cff2420
 
-70M $OVAX https://snowtrace.io/tx/0x269fd40c7ff5bc6e818bae6a9cc5ad9bf15729fe7dede65855c305c918ca7991
+70M $OVAX https://snowscan.xyz/tx/0x269fd40c7ff5bc6e818bae6a9cc5ad9bf15729fe7dede65855c305c918ca7991
+
+90M $AFART https://snowscan.xyz/tx/0x9f203c41672c3740435f0b418205276ed1da69cd6ccc0d49d0e4388a21e48dfe
 
 ------------
 
