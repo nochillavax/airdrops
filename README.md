@@ -143,6 +143,9 @@ We have Distributed so far to all participants on the leaderboard:
 420M $SUPER https://snowscan.xyz/tx/0x83e32c2a94f5873c1fa84a2980f00cd9173ad24459efa12626ae1903419792d1
 
 300M $FUEL https://snowscan.xyz/tx/0xa35cc00fc4478cf838fd9a354b396a3ee5c9555e4c4815041cb9257d251da999
+
+500M $REKT https://snowscan.xyz/tx/0x07a22d904dd2e25ab3595a5fbbd816559b0f3d880760dc5a2789bf9e5e4a8027
+
 ------------
 
 
