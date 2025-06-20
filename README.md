@@ -138,6 +138,11 @@ We have Distributed so far to all participants on the leaderboard:
 
 90M $AFART https://snowscan.xyz/tx/0x9f203c41672c3740435f0b418205276ed1da69cd6ccc0d49d0e4388a21e48dfe
 
+500M $LEMBU https://snowscan.xyz/tx/0x46ccb6712721c9dec0f5671c80d6c7959f25d6ada4da29ed03171f089f87c497
+
+420M $SUPER https://snowscan.xyz/tx/0x83e32c2a94f5873c1fa84a2980f00cd9173ad24459efa12626ae1903419792d1
+
+300M $FUEL https://snowscan.xyz/tx/0xa35cc00fc4478cf838fd9a354b396a3ee5c9555e4c4815041cb9257d251da999
 ------------
 
 
