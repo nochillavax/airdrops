@@ -150,6 +150,22 @@ We have Distributed so far to all participants on the leaderboard:
 
 100M $BEATR https://snowscan.xyz/tx/0x0fc0e0ce2b72cbaf6eb53e20ad9d643314c54cfe15ee2c075cb62eae957cb3cc
 
+240M $V4P https://snowscan.xyz/tx/0xbeb13cf385eee006846ca3e2f6cd3586f6ebb799ce865b33faf6d322dd211f6a
+
+500M AL1VE https://snowscan.xyz/tx/0xcf431d4a1ffce027d0e913717b32074389fa0402e50c27d73c92b7dabf75b5d7
+
+500M EVTOL https://snowscan.xyz/tx/0xded38e504941a89c6af13fb9a5fc3dcd5d82f71d5ce46ac47289088d31727a85
+
+500M HOTWHEEL https://snowscan.xyz/tx/0x97fbe8fc3e1e00dc925c392b6dc75b5e66ea85910a609a3ebefb848018f58cfe
+
+500M BOND https://snowscan.xyz/tx/0xf21d9b827f395dd0262da3b5acbbbb1d66f4dbb139b4c48428f9f41c9c98ef8f
+
+400M SMRT https://snowscan.xyz/tx/0x897f083b3f2bcfc64ff79f5130289cef980fc6b245be9a51566c61848bad24c5
+
+250M SUBARU https://snowscan.xyz/tx/0x1c9877311d5823b57c05d696867da699205f760a05f29dcc53f04ebb364ea9c9
+
+240M BOA https://snowscan.xyz/tx/0xb23526dca8aadc86d2a25015645c0ef3069779c0f66f04e44f18f4eecd903d88
+
 ------------
 
 
