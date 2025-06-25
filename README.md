@@ -146,6 +146,10 @@ We have Distributed so far to all participants on the leaderboard:
 
 500M $REKT https://snowscan.xyz/tx/0x07a22d904dd2e25ab3595a5fbbd816559b0f3d880760dc5a2789bf9e5e4a8027
 
+220M $BCRUS https://snowscan.xyz/tx/0x05c81206a20e01bc839f390257f7b999cb38188b51a8eb67fdef79a9824be480
+
+100M $BEATR https://snowscan.xyz/tx/0x0fc0e0ce2b72cbaf6eb53e20ad9d643314c54cfe15ee2c075cb62eae957cb3cc
+
 ------------
 
 
