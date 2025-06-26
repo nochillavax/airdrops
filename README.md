@@ -166,6 +166,12 @@ We have Distributed so far to all participants on the leaderboard:
 
 240M BOA https://snowscan.xyz/tx/0xb23526dca8aadc86d2a25015645c0ef3069779c0f66f04e44f18f4eecd903d88
 
+100M JEFF https://snowscan.xyz/tx/0x7202abd05e957970f92a3c89c319814945325e2797e65b037d8df985fd4b5677
+
+100M NOCHILLIO https://snowscan.xyz/tx/0x1dc76819d448dc9e7d88e983cc8f7bf4ce537beeb2ceb7a36b075ae65334e6bd
+
+200M WALDO https://snowscan.xyz/tx/0xcee573bf4b442c49d9d23d9803f4d7569252935067c1c3c55eeb4255cd869941
+
 ------------
 
 
