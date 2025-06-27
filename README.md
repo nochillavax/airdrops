@@ -187,3 +187,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M NOCHILLIO https://snowscan.xyz/tx/0x1dc76819d448dc9e7d88e983cc8f7bf4ce537beeb2ceb7a36b075ae65334e6bd
 
 200M WALDO https://snowscan.xyz/tx/0xcee573bf4b442c49d9d23d9803f4d7569252935067c1c3c55eeb4255cd869941
+
+400M OG https://snowscan.xyz/tx/0xc932dbf31bead911e077e5b95459ea486545422e77a19c11415360303e3f50e4
