@@ -79,6 +79,22 @@ We have Distributed so far to top 100 on our leaderboard:
 
 200M $HGHR https://snowscan.xyz/tx/0x3d518137b63e3563eb912d3d4491b53ce3b78f628e3a187ab209a54de7beb35d
 
+------------
+
+
+We have Distributed so far to all Comfy Kroox NFT holders:
+
+300M $COMFY (comfy kroox)
+
+https://snowscan.xyz/tx/0x078f3dc23b8ad0f9aff06cc0b80e36ccca2b5fdc1bf17095bfc0e9f3a4e4c91c
+
+https://snowscan.xyz/tx/0xb222ee4ee94bbaf8e807aa48586399daaf8207940383113c1ef5d2338db51bb6
+
+https://snowscan.xyz/tx/0xce0b17c3a7b712963284c2d52b3bab944609027704a8635ebd39d416e5b6ab2e
+
+https://snowscan.xyz/tx/0x55867872cb9aefb4e737e60a3ff7ad4b8845e2b1b5ba98f052057169ee0f6767
+
+------------
 
 We have Distributed so far to all participants on the leaderboard:
 
@@ -171,18 +187,3 @@ We have Distributed so far to all participants on the leaderboard:
 100M NOCHILLIO https://snowscan.xyz/tx/0x1dc76819d448dc9e7d88e983cc8f7bf4ce537beeb2ceb7a36b075ae65334e6bd
 
 200M WALDO https://snowscan.xyz/tx/0xcee573bf4b442c49d9d23d9803f4d7569252935067c1c3c55eeb4255cd869941
-
-------------
-
-
-We have Distributed so far to all Comfy Kroox NFT holders:
-
-300M $COMFY (comfy kroox)
-
-https://snowscan.xyz/tx/0x078f3dc23b8ad0f9aff06cc0b80e36ccca2b5fdc1bf17095bfc0e9f3a4e4c91c
-
-https://snowscan.xyz/tx/0xb222ee4ee94bbaf8e807aa48586399daaf8207940383113c1ef5d2338db51bb6
-
-https://snowscan.xyz/tx/0xce0b17c3a7b712963284c2d52b3bab944609027704a8635ebd39d416e5b6ab2e
-
-https://snowscan.xyz/tx/0x55867872cb9aefb4e737e60a3ff7ad4b8845e2b1b5ba98f052057169ee0f6767
