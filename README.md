@@ -189,4 +189,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M WALDO https://snowscan.xyz/tx/0xcee573bf4b442c49d9d23d9803f4d7569252935067c1c3c55eeb4255cd869941
 
 400M OG https://snowscan.xyz/tx/0xc932dbf31bead911e077e5b95459ea486545422e77a19c11415360303e3f50e4
+
 400M BOFU https://snowscan.xyz/tx/0xb4fdcce5165c691a9800adef82c6277ab0bddcd5cd57a8888ad18084a831d809
