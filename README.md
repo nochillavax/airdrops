@@ -195,4 +195,5 @@ We have Distributed so far to all participants on the leaderboard:
 500M REDBULL https://snowscan.xyz/tx/0x03de85908fbf325f65e4bed8168c9949455e25f2914f99918000717bfb8ab939
 
 300M BONDED https://snowscan.xyz/tx/0xf381a69ea8aed8a09f885976c8428d8e6289706f5808927d7de8f98457e83ad1
+
 250M GAYS https://snowscan.xyz/tx/0xda17f4d2a4a378709c89783f61eac34a4fd652be288a666a38578d27f4d33771
