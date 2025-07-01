@@ -192,4 +192,4 @@ We have Distributed so far to all participants on the leaderboard:
 
 400M BOFU https://snowscan.xyz/tx/0xb4fdcce5165c691a9800adef82c6277ab0bddcd5cd57a8888ad18084a831d809
 
-500M REDBULL https://snowscan.xyz/tx/0x03de85908fbf325f65e4bed8168c9949455e25f2914f99918000717bfb8ab939
+500M REDBULL https://snowscan.xyz/tx/0x03de85908fbf325f65e4bed8168c9949455e25f2914f99918000717bfb8ab939300M BONDED https://snowscan.xyz/tx/0xf381a69ea8aed8a09f885976c8428d8e6289706f5808927d7de8f98457e83ad1
