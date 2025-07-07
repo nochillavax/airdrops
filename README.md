@@ -199,3 +199,5 @@ We have Distributed so far to all participants on the leaderboard:
 250M GAYS https://snowscan.xyz/tx/0xda17f4d2a4a378709c89783f61eac34a4fd652be288a666a38578d27f4d33771
 
 100M LEAKY https://snowscan.xyz/tx/0xe4df38907fd3ada077ab67d07d46ef54a35940ea70a010f55003c1d33998bc7b
+
+1M GRM https://snowscan.xyz/tx/0x750fe7f446b02edc13be02652bd08d870d692aa18d3cbf3d509bc72aebc8b3a0
