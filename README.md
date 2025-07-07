@@ -203,3 +203,5 @@ We have Distributed so far to all participants on the leaderboard:
 1M GRM https://snowscan.xyz/tx/0x750fe7f446b02edc13be02652bd08d870d692aa18d3cbf3d509bc72aebc8b3a0
 
 69.70M NOTHING https://snowscan.xyz/tx/0x6a44615e32fcadb45b9070993fe64de2a937d10d4fe35b8216ccf913b5c4d5a2
+
+324M RELAX https://snowscan.xyz/tx/0x02eb0af7b27b288649da3a699ca5a210f0bafdc81e7113e2a214d973c2db19f7
