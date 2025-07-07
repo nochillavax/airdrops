@@ -205,3 +205,5 @@ We have Distributed so far to all participants on the leaderboard:
 69.70M NOTHING https://snowscan.xyz/tx/0x6a44615e32fcadb45b9070993fe64de2a937d10d4fe35b8216ccf913b5c4d5a2
 
 324M RELAX https://snowscan.xyz/tx/0x02eb0af7b27b288649da3a699ca5a210f0bafdc81e7113e2a214d973c2db19f7
+
+100M RBUCKETS https://snowscan.xyz/tx/0x82363f5e917d19d122ce48690f7237d4465fe5b9e1809b46cb823f31d265f30f
