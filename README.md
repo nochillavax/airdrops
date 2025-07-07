@@ -197,3 +197,5 @@ We have Distributed so far to all participants on the leaderboard:
 300M BONDED https://snowscan.xyz/tx/0xf381a69ea8aed8a09f885976c8428d8e6289706f5808927d7de8f98457e83ad1
 
 250M GAYS https://snowscan.xyz/tx/0xda17f4d2a4a378709c89783f61eac34a4fd652be288a666a38578d27f4d33771
+
+100M LEAKY https://snowscan.xyz/tx/0xe4df38907fd3ada077ab67d07d46ef54a35940ea70a010f55003c1d33998bc7b
