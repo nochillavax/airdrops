@@ -237,3 +237,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M RETT https://snowscan.xyz/tx/0x1b77dd15b7ba5884f870cd13985130902461e8946fd8fe5e808c0cfb6acde15f
 
 200M WIFEBEATR https://snowscan.xyz/tx/0x2386c8fb0e4dc7bb6ea4ae235accf1adcb0ff7b6fc21f362c73bb67f9682a0f2
+
+48M CRUMB https://snowscan.xyz/tx/0x34c3dfb0ad45e5b6b396cf36337ecf5645b07c7b825d50329716791acb87d200
