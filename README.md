@@ -217,3 +217,5 @@ We have Distributed so far to all participants on the leaderboard:
 45M WALT https://snowscan.xyz/tx/0x16f772c5466fa0baca5ecbe00f949a28f2db7ad7dc666475241396a49eb31eb6
 
 100M BGINA https://snowscan.xyz/tx/0x7e310a0f4503241e91c74e931c5fd8bf16da3bad72b09807be5ef8c014f0e3c1
+
+50M DIP https://snowscan.xyz/tx/0xf2e0b3af6efb3c8a361b21e7983f1f7de8833dd7b141fc83150d3b1382409ec2
