@@ -307,3 +307,5 @@ We have Distributed so far to all participants on the leaderboard:
 50M ARENADRINK https://snowscan.xyz/tx/0xd952b0051821ae862e99318016c9474b99fe0ac8faafeb1234459c46d4072137
 
 100M NDUMP https://snowscan.xyz/tx/0x9af9744abc69895565580afc8cdfa35d9b9f4665a7488f34407fda9bd3ed953b
+
+1500M FAP https://snowscan.xyz/tx/0x9acaf7ca5655ea066119ffc9327ac71461aaff540288476af5fcab0aa48985df
