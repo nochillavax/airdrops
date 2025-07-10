@@ -209,3 +209,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M RBUCKETS https://snowscan.xyz/tx/0x82363f5e917d19d122ce48690f7237d4465fe5b9e1809b46cb823f31d265f30f
 
 169M BLESSING https://snowscan.xyz/tx/0x67b4eb7587211cf8de55d634bb7ce3db970b354a26c8ea54127d33b9b7b0b04f
+
+250M COPIUM https://snowscan.xyz/tx/0x2bff7d6ac3d6c6bd497ac32b4e8f5b4076246cc3b6fa4c87ed756eeaded5ea38
