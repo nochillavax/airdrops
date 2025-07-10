@@ -229,3 +229,5 @@ We have Distributed so far to all participants on the leaderboard:
 20M GREG https://snowscan.xyz/tx/0x8298719912b0a38782890de17b8c49f0ba77f8040e84f5c163b52488e4be0b77
 
 100M TOYODA https://snowscan.xyz/tx/0xb6bc4ae26f478fa509759440bcb40d8bcb9d73497a7a06c25e29f58dafa87522
+
+100M LENNI https://snowscan.xyz/tx/0x1bfba4805c33c2a80fbc7b390131018045da213a2f69fcd74da9fc54c37c5c4b
