@@ -233,3 +233,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M LENNI https://snowscan.xyz/tx/0x1bfba4805c33c2a80fbc7b390131018045da213a2f69fcd74da9fc54c37c5c4b
 
 250M PERFECTLY https://snowscan.xyz/tx/0xa2b2da4a9f224b495de3c6f5a1f76da037f9d11c00681ccd8a24beaba5be2198
+
+100M RETT https://snowscan.xyz/tx/0x1b77dd15b7ba5884f870cd13985130902461e8946fd8fe5e808c0cfb6acde15f
