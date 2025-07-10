@@ -249,3 +249,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M OG https://snowscan.xyz/tx/0xb8668d72a9b6283efa95034c7d5e36baeda38521af446b96f95e0108707d923c
 
 300M PNALD https://snowscan.xyz/tx/0x621e162b45e0489e384820cae77a9dc3c5aa29ff99f4c00ee2eda847aca7ccc8
+
+200M MUNY https://snowscan.xyz/tx/0xa702e14956d5658ae2fa47aa1cd213187859c6187983b170ae3752f61014bc34
