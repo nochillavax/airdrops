@@ -247,3 +247,5 @@ We have Distributed so far to all participants on the leaderboard:
 50M LIMBO https://snowscan.xyz/tx/0xb75ce3db3ab2d8542a5af6f82d8b11574668117155234521901599cbf17a042a
 
 100M OG https://snowscan.xyz/tx/0xb8668d72a9b6283efa95034c7d5e36baeda38521af446b96f95e0108707d923c
+
+300M PNALD https://snowscan.xyz/tx/0x621e162b45e0489e384820cae77a9dc3c5aa29ff99f4c00ee2eda847aca7ccc8
