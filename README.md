@@ -293,3 +293,5 @@ We have Distributed so far to all participants on the leaderboard:
 10M CHEMS https://snowscan.xyz/tx/0x48a125609cea8a3fbfa0d45d045033b602db53d2fe2870d6f603b10a90e9d574
 
 100M GFFR https://snowscan.xyz/tx/0x7f719ed1bf07eaf416301d6315d8c452f1eb8ae2ac4feb2350d7be919b6ec01a
+
+200M PARTY https://snowscan.xyz/tx/0x06f620baa0406a2a9a9605467067a7765ed02be8f6dda25b28d8acf658588c65
