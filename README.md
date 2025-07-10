@@ -251,3 +251,5 @@ We have Distributed so far to all participants on the leaderboard:
 300M PNALD https://snowscan.xyz/tx/0x621e162b45e0489e384820cae77a9dc3c5aa29ff99f4c00ee2eda847aca7ccc8
 
 200M MUNY https://snowscan.xyz/tx/0xa702e14956d5658ae2fa47aa1cd213187859c6187983b170ae3752f61014bc34
+
+250M BRNCO https://snowscan.xyz/tx/0xb769af95e394b2bad6767aa5d22568d226e5f2b9335c09b29a37fc52d36a7a04
