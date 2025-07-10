@@ -219,3 +219,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M BGINA https://snowscan.xyz/tx/0x7e310a0f4503241e91c74e931c5fd8bf16da3bad72b09807be5ef8c014f0e3c1
 
 50M DIP https://snowscan.xyz/tx/0xf2e0b3af6efb3c8a361b21e7983f1f7de8833dd7b141fc83150d3b1382409ec2
+
+100M CREAM https://snowscan.xyz/tx/0xb9f5934c73ecae406ec9c32d7a43d6719dd8b81889d69710819a6f2be184e8b2
