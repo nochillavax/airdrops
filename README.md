@@ -259,3 +259,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M HARD https://snowscan.xyz/tx/0x1b3043f5c873da5693c3bf2b877a9b30d9c8d18d12e6bf2880b4ece2d1615460
 
 30M TCKD https://snowscan.xyz/tx/0xed1bf2632695ea0143a5eef4410ae19b76f5eb773297f63d28d94a90417e0547
+
+30M DOGBEATR https://snowscan.xyz/tx/0x65c56972b0f92789ed6198322494c87ea289fb0f5b06d92463404190b3daffcf
