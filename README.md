@@ -267,3 +267,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M MOONDENG https://snowscan.xyz/tx/0xf6c15a12e6d82486d32a38a7d747890a54e3513c32aad765017ef89a56dbdb17
 
 250M CHILLWIFE https://snowscan.xyz/tx/0x18829fa6d343bf9bafed86d100395e9eb074fee7e43072f446438699662419ea
+
+5M SPX https://snowscan.xyz/tx/0x418741c5f3973c641a8bbb1933607fbd5a873510e26f8f639213022893c05afd
