@@ -261,3 +261,5 @@ We have Distributed so far to all participants on the leaderboard:
 30M TCKD https://snowscan.xyz/tx/0xed1bf2632695ea0143a5eef4410ae19b76f5eb773297f63d28d94a90417e0547
 
 30M DOGBEATR https://snowscan.xyz/tx/0x65c56972b0f92789ed6198322494c87ea289fb0f5b06d92463404190b3daffcf
+
+400M BAZR https://snowscan.xyz/tx/0xa44ae8dafd3840a96d50d8ca3e8114eb17c5acbd9c2b562253f0e3e9547499c8
