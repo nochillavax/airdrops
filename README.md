@@ -265,3 +265,5 @@ We have Distributed so far to all participants on the leaderboard:
 400M BAZR https://snowscan.xyz/tx/0xa44ae8dafd3840a96d50d8ca3e8114eb17c5acbd9c2b562253f0e3e9547499c8
 
 100M MOONDENG https://snowscan.xyz/tx/0xf6c15a12e6d82486d32a38a7d747890a54e3513c32aad765017ef89a56dbdb17
+
+250M CHILLWIFE https://snowscan.xyz/tx/0x18829fa6d343bf9bafed86d100395e9eb074fee7e43072f446438699662419ea
