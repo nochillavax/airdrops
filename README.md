@@ -257,3 +257,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M GRETA https://snowscan.xyz/tx/0x9fb1a76da14b0731cd5cb3681366f861ba33222c1f5b3ccf21ad640506a7e966
 
 100M HARD https://snowscan.xyz/tx/0x1b3043f5c873da5693c3bf2b877a9b30d9c8d18d12e6bf2880b4ece2d1615460
+
+30M TCKD https://snowscan.xyz/tx/0xed1bf2632695ea0143a5eef4410ae19b76f5eb773297f63d28d94a90417e0547
