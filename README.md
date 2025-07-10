@@ -241,3 +241,5 @@ We have Distributed so far to all participants on the leaderboard:
 48M CRUMB https://snowscan.xyz/tx/0x34c3dfb0ad45e5b6b396cf36337ecf5645b07c7b825d50329716791acb87d200
 
 110M ERBY https://snowscan.xyz/tx/0x9e0adaadf544ccc493c5f07b6c1e92c916013ed3a70348f4af9f6ae32453eeaf
+
+318M KHOLE https://snowscan.xyz/tx/0xfba04893c5228c518b03388447575e7072fef8945c5ac69fe8ac66e4c2d93a89
