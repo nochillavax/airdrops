@@ -245,3 +245,5 @@ We have Distributed so far to all participants on the leaderboard:
 318M KHOLE https://snowscan.xyz/tx/0xfba04893c5228c518b03388447575e7072fef8945c5ac69fe8ac66e4c2d93a89
 
 50M LIMBO https://snowscan.xyz/tx/0xb75ce3db3ab2d8542a5af6f82d8b11574668117155234521901599cbf17a042a
+
+100M OG https://snowscan.xyz/tx/0xb8668d72a9b6283efa95034c7d5e36baeda38521af446b96f95e0108707d923c
