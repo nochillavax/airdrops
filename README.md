@@ -295,3 +295,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M GFFR https://snowscan.xyz/tx/0x7f719ed1bf07eaf416301d6315d8c452f1eb8ae2ac4feb2350d7be919b6ec01a
 
 200M PARTY https://snowscan.xyz/tx/0x06f620baa0406a2a9a9605467067a7765ed02be8f6dda25b28d8acf658588c65
+
+25M NPX https://snowscan.xyz/tx/0x10dfbe256c714821aa31ef668393af15bc8633000212440ec74093f9328abea0
