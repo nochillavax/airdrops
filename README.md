@@ -271,3 +271,5 @@ We have Distributed so far to all participants on the leaderboard:
 5M SPX https://snowscan.xyz/tx/0x418741c5f3973c641a8bbb1933607fbd5a873510e26f8f639213022893c05afd
 
 500M J1AX https://snowscan.xyz/tx/0x22327b52d3abed959987e700a7e72bbf622adb92068c9f5ba9e7cb01cbfbbacd
+
+150M CATRUSSEL https://snowscan.xyz/tx/0xeb0efb125b03d1748e6dfaf1800b600beed1b6ce03cddf3b6d02f5a214ad78e3
