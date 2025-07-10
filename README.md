@@ -223,3 +223,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M CREAM https://snowscan.xyz/tx/0xb9f5934c73ecae406ec9c32d7a43d6719dd8b81889d69710819a6f2be184e8b2
 
 200M RFROG https://snowscan.xyz/tx/0xccbaf9807ad5e174c24ee54088b4e9c12d8b180cbc7d786b9031f62b89ac4270
+
+200M GOLDENBULL https://snowscan.xyz/tx/0x389fcfe108ea932b32be07a7af6a3a9c2612bf365d2eb8993ba4c8566601492b
