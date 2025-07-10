@@ -283,3 +283,5 @@ We have Distributed so far to all participants on the leaderboard:
 15M TLGRM https://snowscan.xyz/tx/0x8fe3f20edce2dadb402173e613ad1e3c0bf947e44a62fcaab617d50b59553a93
 
 100M BAGS https://snowscan.xyz/tx/0x8a7fbd749a18b949b12323e5a2d0b23c66e21c1662f6d39e67d1bfee41930fd7
+
+250M SNOXY https://snowscan.xyz/tx/0x7534ddfeee0243e2cd9009d65b1d67a9c675e55a0e28e32be9fb925af6cb7581
