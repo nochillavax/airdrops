@@ -299,3 +299,5 @@ We have Distributed so far to all participants on the leaderboard:
 25M NPX https://snowscan.xyz/tx/0x10dfbe256c714821aa31ef668393af15bc8633000212440ec74093f9328abea0
 
 100M YETI https://snowscan.xyz/tx/0xe3886d1ff8ab4cb7d682c881debd34bf4e202723fbb6198db40393e7d1c0fdb6
+
+75M VRX https://snowscan.xyz/tx/0x4d9dcf0c7b21bc54130877e85339871181b26864135dd74f4a1c9ab816eeaad2
