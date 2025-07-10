@@ -285,3 +285,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M BAGS https://snowscan.xyz/tx/0x8a7fbd749a18b949b12323e5a2d0b23c66e21c1662f6d39e67d1bfee41930fd7
 
 250M SNOXY https://snowscan.xyz/tx/0x7534ddfeee0243e2cd9009d65b1d67a9c675e55a0e28e32be9fb925af6cb7581
+
+50M SAURON https://snowscan.xyz/tx/0xb4ecfde7c880c57a7337f22c93221d2dbf8d35b2ef78e3f142c8628fce9c7f85
