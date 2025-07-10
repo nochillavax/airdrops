@@ -305,3 +305,5 @@ We have Distributed so far to all participants on the leaderboard:
 30M BALDY https://snowscan.xyz/tx/0xf1a6f63a57651d9f2ec72a3aff7235a50c30bcf66a26c2f644737b5a60c8514e
 
 50M ARENADRINK https://snowscan.xyz/tx/0xd952b0051821ae862e99318016c9474b99fe0ac8faafeb1234459c46d4072137
+
+100M NDUMP https://snowscan.xyz/tx/0x9af9744abc69895565580afc8cdfa35d9b9f4665a7488f34407fda9bd3ed953b
