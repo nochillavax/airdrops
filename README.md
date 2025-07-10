@@ -243,3 +243,5 @@ We have Distributed so far to all participants on the leaderboard:
 110M ERBY https://snowscan.xyz/tx/0x9e0adaadf544ccc493c5f07b6c1e92c916013ed3a70348f4af9f6ae32453eeaf
 
 318M KHOLE https://snowscan.xyz/tx/0xfba04893c5228c518b03388447575e7072fef8945c5ac69fe8ac66e4c2d93a89
+
+50M LIMBO https://snowscan.xyz/tx/0xb75ce3db3ab2d8542a5af6f82d8b11574668117155234521901599cbf17a042a
