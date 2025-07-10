@@ -289,3 +289,5 @@ We have Distributed so far to all participants on the leaderboard:
 50M SAURON https://snowscan.xyz/tx/0xb4ecfde7c880c57a7337f22c93221d2dbf8d35b2ef78e3f142c8628fce9c7f85
 
 100M RED https://snowscan.xyz/tx/0x9f067f51246ec66d3ac8bce9c41e93fe71259d26b5910d25d4519271e7cad243
+
+10M CHEMS https://snowscan.xyz/tx/0x48a125609cea8a3fbfa0d45d045033b602db53d2fe2870d6f603b10a90e9d574
