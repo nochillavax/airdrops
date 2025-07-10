@@ -239,3 +239,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M WIFEBEATR https://snowscan.xyz/tx/0x2386c8fb0e4dc7bb6ea4ae235accf1adcb0ff7b6fc21f362c73bb67f9682a0f2
 
 48M CRUMB https://snowscan.xyz/tx/0x34c3dfb0ad45e5b6b396cf36337ecf5645b07c7b825d50329716791acb87d200
+
+110M ERBY https://snowscan.xyz/tx/0x9e0adaadf544ccc493c5f07b6c1e92c916013ed3a70348f4af9f6ae32453eeaf
