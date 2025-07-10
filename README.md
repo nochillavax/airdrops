@@ -263,3 +263,5 @@ We have Distributed so far to all participants on the leaderboard:
 30M DOGBEATR https://snowscan.xyz/tx/0x65c56972b0f92789ed6198322494c87ea289fb0f5b06d92463404190b3daffcf
 
 400M BAZR https://snowscan.xyz/tx/0xa44ae8dafd3840a96d50d8ca3e8114eb17c5acbd9c2b562253f0e3e9547499c8
+
+100M MOONDENG https://snowscan.xyz/tx/0xf6c15a12e6d82486d32a38a7d747890a54e3513c32aad765017ef89a56dbdb17
