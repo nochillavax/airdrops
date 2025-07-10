@@ -281,3 +281,5 @@ We have Distributed so far to all participants on the leaderboard:
 301M PORCO https://snowscan.xyz/tx/0xd88142fcca31126fd89293b6a9b15b54502cca8032352c511eac2e94c60a1d0e
 
 15M TLGRM https://snowscan.xyz/tx/0x8fe3f20edce2dadb402173e613ad1e3c0bf947e44a62fcaab617d50b59553a93
+
+100M BAGS https://snowscan.xyz/tx/0x8a7fbd749a18b949b12323e5a2d0b23c66e21c1662f6d39e67d1bfee41930fd7
