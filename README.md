@@ -273,3 +273,5 @@ We have Distributed so far to all participants on the leaderboard:
 500M J1AX https://snowscan.xyz/tx/0x22327b52d3abed959987e700a7e72bbf622adb92068c9f5ba9e7cb01cbfbbacd
 
 150M CATRUSSEL https://snowscan.xyz/tx/0xeb0efb125b03d1748e6dfaf1800b600beed1b6ce03cddf3b6d02f5a214ad78e3
+
+15M FROGDOM https://snowscan.xyz/tx/0x09ef906f8cf29bf79a326bb370f5b6bd8029f8684b8f663b78a52cd7461a145b
