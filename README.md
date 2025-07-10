@@ -275,3 +275,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M CATRUSSEL https://snowscan.xyz/tx/0xeb0efb125b03d1748e6dfaf1800b600beed1b6ce03cddf3b6d02f5a214ad78e3
 
 15M FROGDOM https://snowscan.xyz/tx/0x09ef906f8cf29bf79a326bb370f5b6bd8029f8684b8f663b78a52cd7461a145b
+
+300M GRUFFALO https://snowscan.xyz/tx/0x5c0ac630f25749b54083102b2dd441ee94f17244c288bdb581c813bc4461ea07
