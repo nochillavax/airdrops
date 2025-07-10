@@ -213,3 +213,5 @@ We have Distributed so far to all participants on the leaderboard:
 250M COPIUM https://snowscan.xyz/tx/0x2bff7d6ac3d6c6bd497ac32b4e8f5b4076246cc3b6fa4c87ed756eeaded5ea38
 
 25M BANG https://snowscan.xyz/tx/0x619a0377c116a8e746458316ed328dcc6e705958a94dc7ae18b94a49adbda780
+
+45M WALT https://snowscan.xyz/tx/0x16f772c5466fa0baca5ecbe00f949a28f2db7ad7dc666475241396a49eb31eb6
