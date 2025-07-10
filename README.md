@@ -211,3 +211,5 @@ We have Distributed so far to all participants on the leaderboard:
 169M BLESSING https://snowscan.xyz/tx/0x67b4eb7587211cf8de55d634bb7ce3db970b354a26c8ea54127d33b9b7b0b04f
 
 250M COPIUM https://snowscan.xyz/tx/0x2bff7d6ac3d6c6bd497ac32b4e8f5b4076246cc3b6fa4c87ed756eeaded5ea38
+
+25M BANG https://snowscan.xyz/tx/0x619a0377c116a8e746458316ed328dcc6e705958a94dc7ae18b94a49adbda780
