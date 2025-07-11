@@ -309,3 +309,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M NDUMP https://snowscan.xyz/tx/0x9af9744abc69895565580afc8cdfa35d9b9f4665a7488f34407fda9bd3ed953b
 
 1500M FAP https://snowscan.xyz/tx/0x9acaf7ca5655ea066119ffc9327ac71461aaff540288476af5fcab0aa48985df
+
+100M RBTC https://snowscan.xyz/tx/0x85f8968da25b02ae88f4de7a1ec52ecf47411cc1c7efd5dec3f392026bd588a7
