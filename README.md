@@ -313,3 +313,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M RBTC https://snowscan.xyz/tx/0x85f8968da25b02ae88f4de7a1ec52ecf47411cc1c7efd5dec3f392026bd588a7
 
 250M CS https://snowscan.xyz/tx/0xe3cd18db51e80c0ec3dfdfe2b75a1c7c46f19279d6767ba8c3f9af7ac0ac08ee
+
+200M MRLX https://snowscan.xyz/tx/0xf47671e7fdc43352029e51383947591b45e6bf3aa0667096db2dce3a9ab4e61a
