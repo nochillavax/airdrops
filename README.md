@@ -311,3 +311,5 @@ We have Distributed so far to all participants on the leaderboard:
 1500M FAP https://snowscan.xyz/tx/0x9acaf7ca5655ea066119ffc9327ac71461aaff540288476af5fcab0aa48985df
 
 100M RBTC https://snowscan.xyz/tx/0x85f8968da25b02ae88f4de7a1ec52ecf47411cc1c7efd5dec3f392026bd588a7
+
+250M CS https://snowscan.xyz/tx/0xe3cd18db51e80c0ec3dfdfe2b75a1c7c46f19279d6767ba8c3f9af7ac0ac08ee
