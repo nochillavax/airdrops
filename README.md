@@ -315,3 +315,5 @@ We have Distributed so far to all participants on the leaderboard:
 250M CS https://snowscan.xyz/tx/0xe3cd18db51e80c0ec3dfdfe2b75a1c7c46f19279d6767ba8c3f9af7ac0ac08ee
 
 200M MRLX https://snowscan.xyz/tx/0xf47671e7fdc43352029e51383947591b45e6bf3aa0667096db2dce3a9ab4e61a
+
+150M POP https://snowscan.xyz/tx/0xcb94ba33ba6081330722edc86679aa5f9b63841452f97ad03cfe094908f28da9
