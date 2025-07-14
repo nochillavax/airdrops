@@ -323,3 +323,5 @@ We have Distributed so far to all participants on the leaderboard:
 10M CORNCATS https://snowscan.xyz/tx/0xaa150f005348e8f2347caa7fb6efa2d842a3909d7b4d106818ef3db0a5b4ad25
 
 50M SHART https://snowscan.xyz/tx/0x5ce5d167072dc0a62c383518635e1b6afac45d4e32385ac83487c905d5f1c45c
+
+200M MIFFY https://snowscan.xyz/tx/0x32de60011dc33c8207804e14064ae506e914af5a9863d090ff737ef031ec2ca0
