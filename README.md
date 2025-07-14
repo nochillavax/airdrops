@@ -327,3 +327,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M MIFFY https://snowscan.xyz/tx/0x32de60011dc33c8207804e14064ae506e914af5a9863d090ff737ef031ec2ca0
 
 150M SIZZLE https://snowscan.xyz/tx/0x20eae03f3c3436b488705acc13ad8f51b441586ee7e6ad6bba9d032782e6ca42
+
+100M SIGMA https://snowscan.xyz/tx/0xf480e1d115b0f7caa0a4130b4a46dd1ba15e9c39baac00232b3cd34d4eaac785
