@@ -319,3 +319,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M POP https://snowscan.xyz/tx/0xcb94ba33ba6081330722edc86679aa5f9b63841452f97ad03cfe094908f28da9
 
 150M GLYTCH https://snowscan.xyz/tx/0x45aca97c16b846977e24dcaec91d773444acc18e605f0507ff8503fddc3f2b30
+
+10M CORNCATS https://snowscan.xyz/tx/0xaa150f005348e8f2347caa7fb6efa2d842a3909d7b4d106818ef3db0a5b4ad25
