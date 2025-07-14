@@ -329,3 +329,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M SIZZLE https://snowscan.xyz/tx/0x20eae03f3c3436b488705acc13ad8f51b441586ee7e6ad6bba9d032782e6ca42
 
 100M SIGMA https://snowscan.xyz/tx/0xf480e1d115b0f7caa0a4130b4a46dd1ba15e9c39baac00232b3cd34d4eaac785
+
+160M FIRE https://snowscan.xyz/tx/0x5a9ad1f94c13cfe0c3bfccceee9a6efc07e5cb492f326109d7fd0b994043cbb8
