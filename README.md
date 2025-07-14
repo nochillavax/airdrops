@@ -331,3 +331,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M SIGMA https://snowscan.xyz/tx/0xf480e1d115b0f7caa0a4130b4a46dd1ba15e9c39baac00232b3cd34d4eaac785
 
 160M FIRE https://snowscan.xyz/tx/0x5a9ad1f94c13cfe0c3bfccceee9a6efc07e5cb492f326109d7fd0b994043cbb8
+
+150M REFI https://snowscan.xyz/tx/0xc9d3452d630759bfff5bc8265cbb0ec3cdb4f317240ee45b11549aab6bee968f
