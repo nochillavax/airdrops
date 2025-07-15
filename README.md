@@ -343,3 +343,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M ORB https://snowscan.xyz/tx/0x892f279be898063988a73aeee5a75742d4b6811c7f1bd624b0a9a3e304ba9375
 
 150M CIAO https://snowscan.xyz/tx/0x606346fca41539cced85b11456c3addaca6fd8c549c9fb2179bd220387e0ae2d
+
+150M TIDG https://snowscan.xyz/tx/0xba04b3f45d757f0c827b26f4030ae50787f55c50156091962cf576cb6dbb5571
