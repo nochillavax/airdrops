@@ -333,3 +333,5 @@ We have Distributed so far to all participants on the leaderboard:
 160M FIRE https://snowscan.xyz/tx/0x5a9ad1f94c13cfe0c3bfccceee9a6efc07e5cb492f326109d7fd0b994043cbb8
 
 150M REFI https://snowscan.xyz/tx/0xc9d3452d630759bfff5bc8265cbb0ec3cdb4f317240ee45b11549aab6bee968f
+
+175M PDV https://snowscan.xyz/tx/0xf82d1da4390801dae1bfcf06764f0c468ad55563a3b1e90c1ffd17a1b8733998
