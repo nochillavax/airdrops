@@ -337,3 +337,5 @@ We have Distributed so far to all participants on the leaderboard:
 175M PDV https://snowscan.xyz/tx/0xf82d1da4390801dae1bfcf06764f0c468ad55563a3b1e90c1ffd17a1b8733998
 
 150M PNRY https://snowscan.xyz/tx/0x6d2720477452c451d7ab6c639def520df268ff1d4ba46ae875320e0a5c1f6eae
+
+175M SPFG https://snowscan.xyz/tx/0xaaf008a745cc43ffc25dcfe45ad2c77e41bf28b8b8c3917db28c088a11c7c792
