@@ -339,3 +339,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M PNRY https://snowscan.xyz/tx/0x6d2720477452c451d7ab6c639def520df268ff1d4ba46ae875320e0a5c1f6eae
 
 175M SPFG https://snowscan.xyz/tx/0xaaf008a745cc43ffc25dcfe45ad2c77e41bf28b8b8c3917db28c088a11c7c792
+
+150M ORB https://snowscan.xyz/tx/0x892f279be898063988a73aeee5a75742d4b6811c7f1bd624b0a9a3e304ba9375
