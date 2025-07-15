@@ -341,3 +341,5 @@ We have Distributed so far to all participants on the leaderboard:
 175M SPFG https://snowscan.xyz/tx/0xaaf008a745cc43ffc25dcfe45ad2c77e41bf28b8b8c3917db28c088a11c7c792
 
 150M ORB https://snowscan.xyz/tx/0x892f279be898063988a73aeee5a75742d4b6811c7f1bd624b0a9a3e304ba9375
+
+150M CIAO https://snowscan.xyz/tx/0x606346fca41539cced85b11456c3addaca6fd8c549c9fb2179bd220387e0ae2d
