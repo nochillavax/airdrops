@@ -357,3 +357,5 @@ We have Distributed so far to all participants on the leaderboard:
 160M LIMB https://snowscan.xyz/tx/0x22c0c8d96cb976a6536d8cf05379f9e0ca6e6fb863be776a6762f6d5f475c85f
 
 160M PURPLE https://snowscan.xyz/tx/0x169390e9330ea4d3650731c9f6061562462f61f03799a74ffece9d15916084a8
+
+160M THVN https://snowscan.xyz/tx/0xe658cd5933986da74fce4f9e37b9238fb4cc7b264ec2e93d627f1efb15194f1e
