@@ -353,3 +353,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M ALEX https://snowscan.xyz/tx/0xcb7a9c2bc8fdaa395fef607d2de15d0b00adc7b529e0d8f089eccbfd6e8b700c
 
 175M WHIS https://snowscan.xyz/tx/0x08a34a394b7440e02f6426462de12e3fd1077cfef662416051beb1e31bd4db73
+
+160M LIMB https://snowscan.xyz/tx/0x22c0c8d96cb976a6536d8cf05379f9e0ca6e6fb863be776a6762f6d5f475c85f
