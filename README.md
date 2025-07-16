@@ -345,3 +345,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M CIAO https://snowscan.xyz/tx/0x606346fca41539cced85b11456c3addaca6fd8c549c9fb2179bd220387e0ae2d
 
 150M TIDG https://snowscan.xyz/tx/0xba04b3f45d757f0c827b26f4030ae50787f55c50156091962cf576cb6dbb5571
+
+100M SHART https://snowscan.xyz/tx/0xa189128b9d50e2317a0c1a76be06dd1947229c29265e6695045c71611c2eb2a0
