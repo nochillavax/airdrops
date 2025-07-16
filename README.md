@@ -351,3 +351,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M FROCH https://snowscan.xyz/tx/0x2d2bbb8dc002653e7191951f3a61c0ab94b9a6f932ab97facbfde3dabfaccab3
 
 200M ALEX https://snowscan.xyz/tx/0xcb7a9c2bc8fdaa395fef607d2de15d0b00adc7b529e0d8f089eccbfd6e8b700c
+
+175M WHIS https://snowscan.xyz/tx/0x08a34a394b7440e02f6426462de12e3fd1077cfef662416051beb1e31bd4db73
