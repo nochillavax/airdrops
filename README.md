@@ -359,3 +359,5 @@ We have Distributed so far to all participants on the leaderboard:
 160M PURPLE https://snowscan.xyz/tx/0x169390e9330ea4d3650731c9f6061562462f61f03799a74ffece9d15916084a8
 
 160M THVN https://snowscan.xyz/tx/0xe658cd5933986da74fce4f9e37b9238fb4cc7b264ec2e93d627f1efb15194f1e
+
+165M YGREEN https://snowscan.xyz/tx/0xb93e5d68a7079492b825f9e470563b891d904672d7be51915a633cb4fbc3ddf8
