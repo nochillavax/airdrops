@@ -363,3 +363,5 @@ We have Distributed so far to all participants on the leaderboard:
 165M YGREEN https://snowscan.xyz/tx/0xb93e5d68a7079492b825f9e470563b891d904672d7be51915a633cb4fbc3ddf8
 
 14M ARENAMUSIC https://snowscan.xyz/tx/0x72671cfa8d7eca370a208ee61409bb73cc8266fea47045140cb140bf1c8cfc3a
+
+100M USDUC https://snowscan.xyz/tx/0x946a3557b424cc513811559f8c5172a4a86b335b24965d90bcf8431d15fa4232
