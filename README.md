@@ -365,3 +365,5 @@ We have Distributed so far to all participants on the leaderboard:
 14M ARENAMUSIC https://snowscan.xyz/tx/0x72671cfa8d7eca370a208ee61409bb73cc8266fea47045140cb140bf1c8cfc3a
 
 100M USDUC https://snowscan.xyz/tx/0x946a3557b424cc513811559f8c5172a4a86b335b24965d90bcf8431d15fa4232
+
+47M MADHOUSE https://snowscan.xyz/tx/0x04c482e065a8ed3a4db816d5b60b07c138780e9f000689b1278b2d65bbbfbbfd
