@@ -369,3 +369,5 @@ We have Distributed so far to all participants on the leaderboard:
 47M MADHOUSE https://snowscan.xyz/tx/0x04c482e065a8ed3a4db816d5b60b07c138780e9f000689b1278b2d65bbbfbbfd
 
 175M Z3R0 https://snowscan.xyz/tx/0xabc527b2526809e6bb4812edf7425e2625dc3eea0ad53503c48d466056624b3b
+
+150M TESTBOY https://snowscan.xyz/tx/0x99d11db28ea24df61c98c2b1de89f9549a24d14325a318f4316e267a1238bc08
