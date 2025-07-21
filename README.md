@@ -373,3 +373,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M TESTBOY https://snowscan.xyz/tx/0x99d11db28ea24df61c98c2b1de89f9549a24d14325a318f4316e267a1238bc08
 
 20M BLOOD https://snowscan.xyz/tx/0x5d830f5f57549fe104647daf10f359f4a0b7d99fdb094549abca9987be950a2a
+
+135M CHOW https://snowscan.xyz/tx/0x9418501900be4d6ae2748e156e85df02e44162fd94e3ccd8a21d8cfd989fd331
