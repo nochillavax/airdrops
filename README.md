@@ -375,3 +375,5 @@ We have Distributed so far to all participants on the leaderboard:
 20M BLOOD https://snowscan.xyz/tx/0x5d830f5f57549fe104647daf10f359f4a0b7d99fdb094549abca9987be950a2a
 
 135M CHOW https://snowscan.xyz/tx/0x9418501900be4d6ae2748e156e85df02e44162fd94e3ccd8a21d8cfd989fd331
+
+115M CLAR https://snowscan.xyz/tx/0x8466b3ca585ef437d7602496398643abab6bac4e7946d311581c70937f263485
