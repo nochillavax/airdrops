@@ -377,3 +377,5 @@ We have Distributed so far to all participants on the leaderboard:
 135M CHOW https://snowscan.xyz/tx/0x9418501900be4d6ae2748e156e85df02e44162fd94e3ccd8a21d8cfd989fd331
 
 115M CLAR https://snowscan.xyz/tx/0x8466b3ca585ef437d7602496398643abab6bac4e7946d311581c70937f263485
+
+23M LAMBOOT https://snowscan.xyz/tx/0x40c624c89e7c99ae2e55421dbe0645c3f6901fbdb10a5de381f20d66607fea01
