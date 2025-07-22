@@ -385,3 +385,5 @@ We have Distributed so far to all participants on the leaderboard:
 125M SFU https://snowscan.xyz/tx/0xfd297768ff44612d60a1840bee2536e1967ef2374b54a502244b3b7df8c877f0
 
 125M CEDRIC https://snowscan.xyz/tx/0x508a58e059d7344098af11e5db9dca381eefcb48c0cabe29bec5c4e809031207
+
+125M HARALD https://snowscan.xyz/tx/0xd34bad96976a5c44e6bfeed865056c3b735e2cd2d1c92bb83e1afb98d29c5d1c
