@@ -383,3 +383,5 @@ We have Distributed so far to all participants on the leaderboard:
 51M WOOTFI https://snowscan.xyz/tx/0xa9aca663d9bc6ce78c074ed5a4d877e5fc088ce85361a364e2d9ba6c4d4fd481
 
 125M SFU https://snowscan.xyz/tx/0xfd297768ff44612d60a1840bee2536e1967ef2374b54a502244b3b7df8c877f0
+
+125M CEDRIC https://snowscan.xyz/tx/0x508a58e059d7344098af11e5db9dca381eefcb48c0cabe29bec5c4e809031207
