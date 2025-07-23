@@ -391,3 +391,5 @@ We have Distributed so far to all participants on the leaderboard:
 7M DOLPHIN https://snowscan.xyz/tx/0x2de4dc09dfe02194d6d956f260786ad12c479d4f69d2e6b188ef0690b67f3381
 
 5M MILF https://snowscan.xyz/tx/0x940c666252c056a5b6666a475f5a0c36af1e708ff45785ea48acb496446c5a64
+
+125M JONES https://snowscan.xyz/tx/0xf97f4a89a8543f6a531ee72bf43f07d4ed8a2afa05f4401059b2287d336e24ea
