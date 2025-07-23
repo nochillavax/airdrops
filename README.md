@@ -397,3 +397,5 @@ We have Distributed so far to all participants on the leaderboard:
 105M TSG https://snowscan.xyz/tx/0x172d1886ed2e870fa65621d4e5aa5a15befc461f342cf8d7d3195a5352c1df98
 
 100M SLOW https://snowscan.xyz/tx/0xe640031db8bf72833e08dfcb43793d8b242811bdd89c60c55dd48f62821f0954
+
+115M WISP https://snowscan.xyz/tx/0xce04942f67afd5650ed3809865f0f24576089b91333eeed66eb338267c226b0b
