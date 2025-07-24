@@ -401,3 +401,5 @@ We have Distributed so far to all participants on the leaderboard:
 115M WISP https://snowscan.xyz/tx/0xce04942f67afd5650ed3809865f0f24576089b91333eeed66eb338267c226b0b
 
 115M PIN https://snowscan.xyz/tx/0x101a151f133ae443f51ea7285172456ff97ea9515bd2e1c84f1bec80ea48ac0f
+
+125M OMNI https://snowscan.xyz/tx/0x75ab2f5b6a531b6d07ef3c661bbae8601ed9fc6950459dab66819e07efc35d1c
