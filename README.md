@@ -403,3 +403,5 @@ We have Distributed so far to all participants on the leaderboard:
 115M PIN https://snowscan.xyz/tx/0x101a151f133ae443f51ea7285172456ff97ea9515bd2e1c84f1bec80ea48ac0f
 
 125M OMNI https://snowscan.xyz/tx/0x75ab2f5b6a531b6d07ef3c661bbae8601ed9fc6950459dab66819e07efc35d1c
+
+100M YOUMIO https://snowscan.xyz/tx/0xbdbbba27eee1c4c92f9b8cd00a035ab7dde0937744801165c26813254adc1934
