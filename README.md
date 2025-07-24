@@ -405,3 +405,5 @@ We have Distributed so far to all participants on the leaderboard:
 125M OMNI https://snowscan.xyz/tx/0x75ab2f5b6a531b6d07ef3c661bbae8601ed9fc6950459dab66819e07efc35d1c
 
 100M YOUMIO https://snowscan.xyz/tx/0xbdbbba27eee1c4c92f9b8cd00a035ab7dde0937744801165c26813254adc1934
+
+100M RFX https://snowscan.xyz/tx/0x6cc69c0b7cc311f6eff9ba4a593ae9d08fd0a96fafe2f8461972b635fd7f5e61
