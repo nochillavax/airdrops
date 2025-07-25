@@ -423,3 +423,5 @@ We have Distributed so far to all participants on the leaderboard:
 105M THS https://snowscan.xyz/tx/0xa06f4e2e2c1f9f89c3753db8d0e32521a1847e3de5304718eec1b0a362dd5257
 
 100M INPIRATION https://snowscan.xyz/tx/0x1cfc7d2f4c9e1893ce32977a893c3307e2f61197249687d4c919dee6588797ac
+
+63M FUKCJETT https://snowscan.xyz/tx/0x796fa7addf9479b4f190fd5a82fb6c6d1f262185d6a3e2787d2c2d0682218164
