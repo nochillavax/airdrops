@@ -407,3 +407,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M YOUMIO https://snowscan.xyz/tx/0xbdbbba27eee1c4c92f9b8cd00a035ab7dde0937744801165c26813254adc1934
 
 100M RFX https://snowscan.xyz/tx/0x6cc69c0b7cc311f6eff9ba4a593ae9d08fd0a96fafe2f8461972b635fd7f5e61
+
+100M NVSD https://snowscan.xyz/tx/0x968b33caa93552cf8a34c98b3cc0097135c4d8d524fa09396ff8337a89af8745
