@@ -413,3 +413,5 @@ We have Distributed so far to all participants on the leaderboard:
 3M BOBFI https://snowscan.xyz/tx/0x463ea88755f2b90ffddf9a7ee740eec0955edd37b4f4256490c4675e6bdb03c5
 
 100M OBX https://snowscan.xyz/tx/0xaaefe1842cd05d5094023ad7cfabd2e1a935a47f67e99155322ac0bb9799313e
+
+4M QUANTO https://snowscan.xyz/tx/0x4d53d611ef918d66b16be95c33bd7c81c864b4cf2e06b5c245934b0c4bc318de
