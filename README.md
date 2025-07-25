@@ -417,3 +417,5 @@ We have Distributed so far to all participants on the leaderboard:
 4M QUANTO https://snowscan.xyz/tx/0x4d53d611ef918d66b16be95c33bd7c81c864b4cf2e06b5c245934b0c4bc318de
 
 100M INPIRATION https://snowscan.xyz/tx/0xb167d3408095bcb3b2646cc4caaabc50ff6c71ab42b076ebd7b5c6861e1c04cc
+
+100M SLO https://snowscan.xyz/tx/0xdf0662756679a10b25ca8c4bbe7b15cd18c696c25a94d0bebb0c9abc00041047
