@@ -411,3 +411,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M NVSD https://snowscan.xyz/tx/0x968b33caa93552cf8a34c98b3cc0097135c4d8d524fa09396ff8337a89af8745
 
 3M BOBFI https://snowscan.xyz/tx/0x463ea88755f2b90ffddf9a7ee740eec0955edd37b4f4256490c4675e6bdb03c5
+
+100M OBX https://snowscan.xyz/tx/0xaaefe1842cd05d5094023ad7cfabd2e1a935a47f67e99155322ac0bb9799313e
