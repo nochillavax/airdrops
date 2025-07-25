@@ -421,3 +421,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M SLO https://snowscan.xyz/tx/0xdf0662756679a10b25ca8c4bbe7b15cd18c696c25a94d0bebb0c9abc00041047
 
 105M THS https://snowscan.xyz/tx/0xa06f4e2e2c1f9f89c3753db8d0e32521a1847e3de5304718eec1b0a362dd5257
+
+100M INPIRATION https://snowscan.xyz/tx/0x1cfc7d2f4c9e1893ce32977a893c3307e2f61197249687d4c919dee6588797ac
