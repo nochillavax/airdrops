@@ -433,3 +433,5 @@ We have Distributed so far to all participants on the leaderboard:
 50M ECONOMY https://snowscan.xyz/tx/0xd065c42848900622c906b4f4bd36918dec682ee15f8f554a034d1aaed094ecf9
 
 100M PROFIT https://snowscan.xyz/tx/0x4b9ad815929d3fc1cc251e9b99936b950a1762b876640e2a4b9a4f74993f0d47
+
+100M FUZ https://snowscan.xyz/tx/0x3c2dc2df35a8573894f901999ee69a8a23ca79d2b31026feeb21d5d16af61286
