@@ -431,3 +431,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M LOLLY https://snowscan.xyz/tx/0x8b5ed1be3f201e408433ec262f6a5952aed6338fd50fce59f1583c935988c574
 
 50M ECONOMY https://snowscan.xyz/tx/0xd065c42848900622c906b4f4bd36918dec682ee15f8f554a034d1aaed094ecf9
+
+100M PROFIT https://snowscan.xyz/tx/0x4b9ad815929d3fc1cc251e9b99936b950a1762b876640e2a4b9a4f74993f0d47
