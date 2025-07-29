@@ -435,3 +435,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M PROFIT https://snowscan.xyz/tx/0x4b9ad815929d3fc1cc251e9b99936b950a1762b876640e2a4b9a4f74993f0d47
 
 100M FUZ https://snowscan.xyz/tx/0x3c2dc2df35a8573894f901999ee69a8a23ca79d2b31026feeb21d5d16af61286
+
+200M MAKEIT https://snowscan.xyz/tx/0x723d0cb93fe9a8bf2d331d353cf054f9b88fee5b0216e0f2807571f13078e4ab
