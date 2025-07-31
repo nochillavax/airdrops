@@ -439,3 +439,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M MAKEIT https://snowscan.xyz/tx/0x723d0cb93fe9a8bf2d331d353cf054f9b88fee5b0216e0f2807571f13078e4ab
 
 100M DIN https://snowscan.xyz/tx/0xc2f4bb8a1fa17de5470502697baf55c6d1e217411f82fcf7d033e17407f62517
+
+100M ANGLY https://snowscan.xyz/tx/0x9e1163384d31ac28fa7db710b4c644b82ce62ad32cab12cc65c7689d95ee7369
