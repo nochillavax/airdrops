@@ -445,3 +445,5 @@ We have Distributed so far to all participants on the leaderboard:
 30M FAST https://snowscan.xyz/tx/0x5991d4a29b69dc74d0b2050e5cd35073146fcf3229d250a6c40e5a339c865e24
 
 100M OKAY https://snowscan.xyz/tx/0xc12768206f557031dcd05e75b869086984f6395299ece408db3a87c5102d6e4e
+
+108M OGS https://snowscan.xyz/tx/0xd4afb8a7f1289c7c98e92ca358bde72324381ce65999754f357564eac72d58e6
