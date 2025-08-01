@@ -443,3 +443,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M ANGLY https://snowscan.xyz/tx/0x9e1163384d31ac28fa7db710b4c644b82ce62ad32cab12cc65c7689d95ee7369
 
 30M FAST https://snowscan.xyz/tx/0x5991d4a29b69dc74d0b2050e5cd35073146fcf3229d250a6c40e5a339c865e24
+
+100M OKAY https://snowscan.xyz/tx/0xc12768206f557031dcd05e75b869086984f6395299ece408db3a87c5102d6e4e
