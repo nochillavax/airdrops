@@ -451,3 +451,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M EVX https://snowscan.xyz/tx/0x0e69776b13eaeff828dbe575c24b43a43d28aeb3635671a99f32ef22c7e1bdf7
 
 100M WZPP https://snowscan.xyz/tx/0xf3b53ee0ffa57a3ae58fe4f2e84dca757f73833c1e495f06679041686082cede
+
+100M MJTY https://snowscan.xyz/tx/0x88992bbb843e1edd3729f7a73fb570642bdb4a9a4e8b76d4023e851621821703
