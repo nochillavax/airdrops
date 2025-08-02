@@ -449,3 +449,5 @@ We have Distributed so far to all participants on the leaderboard:
 108M OGS https://snowscan.xyz/tx/0xd4afb8a7f1289c7c98e92ca358bde72324381ce65999754f357564eac72d58e6
 
 100M EVX https://snowscan.xyz/tx/0x0e69776b13eaeff828dbe575c24b43a43d28aeb3635671a99f32ef22c7e1bdf7
+
+100M WZPP https://snowscan.xyz/tx/0xf3b53ee0ffa57a3ae58fe4f2e84dca757f73833c1e495f06679041686082cede
