@@ -455,3 +455,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M MJTY https://snowscan.xyz/tx/0x88992bbb843e1edd3729f7a73fb570642bdb4a9a4e8b76d4023e851621821703
 
 100M YVRO https://snowscan.xyz/tx/0x5ebf319ec12783cf543e5d8478c1030eefa135db697600100421972afbbf1f9f
+
+150M VR https://snowscan.xyz/tx/0xa0c048b27f1e3cefa76472d1016b030a7f99aaf9fc56624f307ac3b446e32fcd
