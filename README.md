@@ -459,3 +459,5 @@ We have Distributed so far to all participants on the leaderboard:
 150M VR https://snowscan.xyz/tx/0xa0c048b27f1e3cefa76472d1016b030a7f99aaf9fc56624f307ac3b446e32fcd
 
 200M DTL https://snowscan.xyz/tx/0x9a29be90a8a89078d8feaa41ea55378924f02c1fc312276ce97322975050d21d
+
+100M BARBAROS https://snowscan.xyz/tx/0xf8f9766a34c5a4f89857351d751bcd9887c177d96ad6be899d015a3fb52ae803
