@@ -461,3 +461,5 @@ We have Distributed so far to all participants on the leaderboard:
 200M DTL https://snowscan.xyz/tx/0x9a29be90a8a89078d8feaa41ea55378924f02c1fc312276ce97322975050d21d
 
 100M BARBAROS https://snowscan.xyz/tx/0xf8f9766a34c5a4f89857351d751bcd9887c177d96ad6be899d015a3fb52ae803
+
+100M VXR https://snowscan.xyz/tx/0x46fad0793ff910c659e6609cf5910fe52ce0cbfa2577f5c262a03d431d4e9ba4
