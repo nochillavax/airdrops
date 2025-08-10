@@ -463,3 +463,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M BARBAROS https://snowscan.xyz/tx/0xf8f9766a34c5a4f89857351d751bcd9887c177d96ad6be899d015a3fb52ae803
 
 100M VXR https://snowscan.xyz/tx/0x46fad0793ff910c659e6609cf5910fe52ce0cbfa2577f5c262a03d431d4e9ba4
+
+1M WAGMIX https://snowscan.xyz/tx/0x9433a2686111de4e82c7835683b1abb094d40cfede765b52652ff3336d3ad9b2
