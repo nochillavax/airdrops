@@ -465,3 +465,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M VXR https://snowscan.xyz/tx/0x46fad0793ff910c659e6609cf5910fe52ce0cbfa2577f5c262a03d431d4e9ba4
 
 1M WAGMIX https://snowscan.xyz/tx/0x9433a2686111de4e82c7835683b1abb094d40cfede765b52652ff3336d3ad9b2
+
+100M POTATO https://snowscan.xyz/tx/0xc576e74cf1d1a8d3a6f4b8fe158191e24e255e739c40ed851b7b1a594d4cec12
