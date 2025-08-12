@@ -469,3 +469,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M POTATO https://snowscan.xyz/tx/0xc576e74cf1d1a8d3a6f4b8fe158191e24e255e739c40ed851b7b1a594d4cec12
 
 100M CAP https://snowscan.xyz/tx/0x3c289ae1ac12cc2dd7804d1a038b47de04b21a80f7efd06e4dc5a8113b2471d5
+
+100M GPT5 https://snowscan.xyz/tx/0xb405ede26e9de9bcc4f40dc5f277c436a21605f6f7fc9fc44072dcdd9f0ad50a
