@@ -467,3 +467,5 @@ We have Distributed so far to all participants on the leaderboard:
 1M WAGMIX https://snowscan.xyz/tx/0x9433a2686111de4e82c7835683b1abb094d40cfede765b52652ff3336d3ad9b2
 
 100M POTATO https://snowscan.xyz/tx/0xc576e74cf1d1a8d3a6f4b8fe158191e24e255e739c40ed851b7b1a594d4cec12
+
+100M CAP https://snowscan.xyz/tx/0x3c289ae1ac12cc2dd7804d1a038b47de04b21a80f7efd06e4dc5a8113b2471d5
