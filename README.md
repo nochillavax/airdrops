@@ -471,3 +471,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M CAP https://snowscan.xyz/tx/0x3c289ae1ac12cc2dd7804d1a038b47de04b21a80f7efd06e4dc5a8113b2471d5
 
 100M GPT5 https://snowscan.xyz/tx/0xb405ede26e9de9bcc4f40dc5f277c436a21605f6f7fc9fc44072dcdd9f0ad50a
+
+500M RICHY https://snowscan.xyz/tx/0x80ede46f32398fb8594510d47617f5afa012cda36e1fd0f03ce18f8517bc99f9
