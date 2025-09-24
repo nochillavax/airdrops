@@ -473,3 +473,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M GPT5 https://snowscan.xyz/tx/0xb405ede26e9de9bcc4f40dc5f277c436a21605f6f7fc9fc44072dcdd9f0ad50a
 
 500M RICHY https://snowscan.xyz/tx/0x80ede46f32398fb8594510d47617f5afa012cda36e1fd0f03ce18f8517bc99f9
+
+400M RICHY https://snowscan.xyz/tx/0xd7e1dfecfc8f3f2761da516d0140334d60468c440d48a08a6a43afb4034a4146
