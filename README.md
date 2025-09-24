@@ -475,3 +475,5 @@ We have Distributed so far to all participants on the leaderboard:
 500M RICHY https://snowscan.xyz/tx/0x80ede46f32398fb8594510d47617f5afa012cda36e1fd0f03ce18f8517bc99f9
 
 400M RICHY https://snowscan.xyz/tx/0xd7e1dfecfc8f3f2761da516d0140334d60468c440d48a08a6a43afb4034a4146
+
+100M RICHY https://snowscan.xyz/tx/0x4d96422c2b387b2457549cccfbc52b9faafc7bcd80b07700170b767d82b4fca7
