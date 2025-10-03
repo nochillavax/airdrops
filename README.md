@@ -481,3 +481,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M MAXIMUS https://snowscan.xyz/tx/0x33d543ba382040ee58e6de313d4df406158adadde0b4461ad5fbb0853bed744f
 
 500M RUNNER https://snowscan.xyz/tx/0x14e67c87eea0e94ae6a634f935b5d107b25d306a79e1ddac71692a40254b6c7d
+
+300M RUNNER https://snowscan.xyz/tx/0xbc778ff85137e3c3edd19ba37c7cb8c85938b9afe2f52a41dabf2c148557c8aa
