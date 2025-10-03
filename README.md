@@ -479,3 +479,5 @@ We have Distributed so far to all participants on the leaderboard:
 100M RICHY https://snowscan.xyz/tx/0x4d96422c2b387b2457549cccfbc52b9faafc7bcd80b07700170b767d82b4fca7
 
 100M MAXIMUS https://snowscan.xyz/tx/0x33d543ba382040ee58e6de313d4df406158adadde0b4461ad5fbb0853bed744f
+
+500M RUNNER https://snowscan.xyz/tx/0x14e67c87eea0e94ae6a634f935b5d107b25d306a79e1ddac71692a40254b6c7d
